@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Welcome to Git
 
 Welcome to Git again
+
+###Copyright
+
+2022.Git.Training
