@@ -19,3 +19,5 @@ Welcome to Git again
 ###Copyright
 
 2022.Git.Training
+
+New Updates
